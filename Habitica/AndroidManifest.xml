@@ -26,6 +26,9 @@
         <meta-data
             android:name="firebase_performance_logcat_enabled"
             android:value="true" />
+        <meta-data android:name="firebase_analytics_collection_enabled" android:value="false" />
+        <meta-data android:name="firebase_performance_collection_enabled" android:value="false" />
+
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="@string/application_ad_id"/>
@@ -96,7 +99,7 @@
             tools:ignore="UnusedAttribute">
         </activity>
         <activity
-            android:name=".ui.activities.LoginActivity"
+            android:name=".ui.activities.OnboardingActivity"
             android:label="@string/LoginActivityName"
             android:configChanges="screenSize | smallestScreenSize | screenLayout | orientation"
             android:windowSoftInputMode="adjustResize">
@@ -108,14 +111,6 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.habitrpg.android.habitica.ui.activities.MainActivity" />
-        </activity>
-        <activity
-            android:name=".ui.activities.IntroActivity"
-            android:windowSoftInputMode="adjustResize">
-        </activity>
-        <activity
-            android:name=".ui.activities.SetupActivity"
-            android:windowSoftInputMode="stateHidden|adjustResize">
         </activity>
         <activity
             android:name=".ui.activities.SkillTasksActivity">
