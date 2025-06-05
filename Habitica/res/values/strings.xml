@@ -610,7 +610,7 @@
     <string name="insufficientHourglasses">You\'ll need more Mystic Hourglasses to buy this item!</string>
     <string name="get_hourglasses">Get hourglasses</string>
     <string name="subscribe_for_hourglasses">Subscribe for Hourglasses</string>
-    <string name="timetravelers_closed_description">Earn one Mystic Hourglass for every three months of consecutive subscription, then use them to unlock limited edition items, pets, and mounts from the past… and future!</string>
+    <string name="timetravelers_closed_description">Earn one Mystic Hourglass for every month of subscription, then use them to unlock limited edition items, pets, and mounts from the past… and future!</string>
     <string name="want_to_subscribe">I want to Subscribe</string>
     <string name="seasonal_closed_description">The Grand Galas happen close to the solstices and equinoxes, so check back then to find a fun assortment of special seasonal items!</string>
     <string name="come_back_soon">Come back soon!</string>
@@ -751,7 +751,8 @@
     <string name="usernamePromptTitle">It’s time to set your username!</string>
     <string name="usernamePromptBody">Login names are now unique usernames that will be visible beside your display name and used for invitations, chat @mentions, and messaging.</string>
     <string name="usernamePromptWiki">If you’d like to learn more about this change, <a href="https://habitica.wikia.com/wiki/Player_Names">visit our wiki.</a></string>
-    <string name="usernamePromptDisclaimer">Usernames should conform to our <a href="https://habitica.aguiarvieira.pt/static/terms">Terms of Service</a> and <a href="https://habitica.aguiarvieira.pt/static/community-guidelines">Community Guidelines</a>. If you didn’t previously set a login name, your username was auto-generated.</string>
+    <string name="usernamePromptDisclaimer">Usernames should conform to our <a href="https://habitica.com/static/terms">Terms of Service</a> and <a href="https://habitica.com/static/community-guidelines">Community Guidelines</a>. If you didn’t previously set a login name, your username was auto-generated.</string>
+    <string name="register_tos_confirm">You agree to our <a href="https://habitica.com/static/terms">Terms of Service</a> and have read our <a href="https://habitica.com/static/privacy">Privacy Policy</a>.</string>
     <string name="confirm_username_title">Are you sure you want to confirm your current username?</string>
     <string name="confirm_username_description">Confirming your username will make it public for invitations, @mentions and messaging. You can change your username from settings at any time.</string>
     <string name="cancel">Cancel</string>
@@ -832,11 +833,11 @@
     <string name="need_more_help">Need more help?</string>
     <string name="become_x">Become a %s</string>
     <string name="x_class">%s Class</string>
-    <string name="report_explanation">**Only** report a post that violates the [Community Guidelines](https://habitica.aguiarvieira.pt/static/community-guidelines) and/or [Terms of Service](https://habitica.aguiarvieira.pt/static/terms). Inappropriately reporting a post may give you an infraction.</string>
+    <string name="report_explanation">**Only** report a post that violates the [Community Guidelines](https://habitica.com/static/community-guidelines) and/or [Terms of Service](https://habitica.com/static/terms). Inappropriately reporting a post may give you an infraction.</string>
     <string name="report_message_title">Report %s for violation:</string>
-    <string name="report_message_explanation">You should only report a post that violates the [Community Guidelines](https://habitica.aguiarvieira.pt/static/community-guidelines) and/or [Terms of Service](https://habitica.aguiarvieira.pt/static/terms). Submitting a false report is a violation of Habitica\'s Community Guidelines.</string>
-    <string name="report_user_explanation">You should only report a player that violates the [Community Guidelines](https://habitica.aguiarvieira.pt/static/community-guidelines) and/or [Terms of Service](https://habitica.aguiarvieira.pt/static/terms). Submitting a false report is a violation of Habitica\'s Community Guidelines.</string>
-    <string name="report_challenge_explanation">You should only report a challenge that violates the [Community Guidelines](https://habitica.aguiarvieira.pt/static/community-guidelines) and/or [Terms of Service](https://habitica.aguiarvieira.pt/static/terms). Submitting a false report is a violation of Habitica\'s Community Guidelines.</string>
+    <string name="report_message_explanation">You should only report a post that violates the [Community Guidelines](https://habitica.com/static/community-guidelines) and/or [Terms of Service](https://habitica.com/static/terms). Submitting a false report is a violation of Habitica\'s Community Guidelines.</string>
+    <string name="report_user_explanation">You should only report a player that violates the [Community Guidelines](https://habitica.com/static/community-guidelines) and/or [Terms of Service](https://habitica.com/static/terms). Submitting a false report is a violation of Habitica\'s Community Guidelines.</string>
+    <string name="report_challenge_explanation">You should only report a challenge that violates the [Community Guidelines](https://habitica.com/static/community-guidelines) and/or [Terms of Service](https://habitica.com/static/terms). Submitting a false report is a violation of Habitica\'s Community Guidelines.</string>
     <string name="report_player_title">Report %s?</string>
     <string name="report_player">Report Player</string>
     <string name="report_hint">Reason for report</string>
@@ -944,7 +945,7 @@
     <string name="profile_gift_gems">Gift\nGems</string>
     <string name="profile_gift_subscription">Gift\nSubscription</string>
     <string name="gems_gift_description">Want to bestow a shiny haul of Gems to someone else?</string>
-    <string name="gift_gems_disclaimer">Habitica will never require you to gift gems to other players. Begging people for gems is a violation of the Community Guidelines and should be reported to admin@habitica.aguiarvieira.pt.</string>
+    <string name="gift_gems_disclaimer">Habitica will never require you to gift gems to other players. Begging people for gems is a violation of the Community Guidelines and should be reported to admin@habitica.com.</string>
     <string name="more_out_of_habitica">Get more out of Habitica</string>
     <string name="preference_push_party_mention">\@Mentions in Party</string>
     <string name="purchase">Purchase</string>
@@ -1047,7 +1048,7 @@
     <string name="common_questions">Common Questions</string>
     <string name="game_mechanics">Game Mechanics</string>
     <string name="subscriber_currency">Subscriber Currency</string>
-    <string name="hourglasses_description">Mystic Hourglasses are an extremely rare form of currency you can only receive for subscribing to Habitica for three consecutive months or more. They are used in the Time Traveler’s shop to buy past gear sets, pets, mounts, animated backgrounds, or even special quests.\n\nYou can receive up to four Mystic Hourglasses a year. The time they are rewarded is based on your subscription renewal schedule. They are sent out on the first day of a new month after your last subscription payment that qualified you for an hourglass. See the [Subscription] page for more details.</string>
+    <string name="hourglasses_description">Mystic Hourglasses are an extremely rare form of currency you can only receive for subscribing to Habitica. You can use them in the Time Travelers Shop to buy past Subscriber Gear sets, exclusive Pets, Mounts, animated Backgrounds, or even special Quests! These extra perks are a great way to stay motivated through the year and reward yourself for a job well done.\n\nSubscribers receive a Mystic Hourglass at the start of each month they have subscription benefits, along with a bunch of other perks. Be sure to check out our subscription options if you’re interested in what the Time Travelers have to offer!</string>
     <string name="clear_cache">Clear your Cache</string>
     <string name="clear_cache_description"><![CDATA[To clear your cache, open your phone’s Settings app. Go to Storage > Apps >  Habitica, then tap Clear Cache.]]></string>
     <string name="manual_sync_restart">Manual Sync or Restart</string>
@@ -1159,7 +1160,7 @@
     <string name="user_is_blocked">You blocked this player</string>
     <string name="user_is_blocked_explanation">A blocked player cannot send you Private Messages but you will still see their posts</string>
     <string name="finish">Finish</string>
-    <string name="login_disclaimer">By signing up, you are indicating that you have read and agree to the <a href="https://habitica.aguiarvieira.pt/static/terms">Terms of Service</a> and <a href="https://habitica.aguiarvieira.pt/static/privacy">Privacy Policy.</a></string>
+    <string name="login_disclaimer">By signing up, you are indicating that you have read and agree to the <a href="https://habitica.com/static/terms">Terms of Service</a> and <a href="https://habitica.com/static/privacy">Privacy Policy.</a></string>
     <string name="you">You</string>
     <string name="invitation_title_no_leader">You were invited to join a party</string>
     <string name="fortify_shop">Fortify Potion</string>
@@ -1425,7 +1426,7 @@
     <string name="invited">Invited</string>
     <string name="invite_with_username_email">Invite with @username or email</string>
     <string name="habiticans_send_invite">Send an invite directly to players you know</string>
-    <string name="username_or_email">Username or email address</string>
+    <string name="username_or_email">Username or email</string>
     <string name="seeking_party_description">Want to join a Party with others but don’t know any other players? Let Party leaders know you’re looking for an invite!</string>
     <string name="seeking_party_title">Looking for a Party?</string>
     <string name="look_for_party">Look for a Party</string>
